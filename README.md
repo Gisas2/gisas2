@@ -5,11 +5,11 @@
 <p align="left"> 
   Sou uma pessoa reservada, tímida, feliz, um pouco ansiosa, dedicada, focada, que busca atingir seus objetivos.
   <strong>Desenvolvedora</strong>.<br>
-  Estudo hoje Pós graduação em Engenharia de Software e iniciei meus estudos também a menos de 1 mês em Desenvolvedor (a) Full Stack, buscando entrar de vez neste mercado de trabalho como desenvolvedora. Estou no inicio da aprendizagem das linguagens sabendo um pouco de HTML, CSS, JavaScript, Git/Github. Evoluindo pra outras linguagens como: Typescript, React, Node.... onde minhas especialidades englobam aprendizagem rápida de novas habilidades e linguagens de programação. 
+  Estudo hoje Pós graduação em Engenharia de Software e iniciei meus estudos também a menos de 1 mês em Desenvolvedor (a) Full Stack, buscando entrar de vez neste mercado de trabalho como desenvolvedora. Estou no inicio da aprendizagem das linguagens onde minhas especialidades englobam aprendizagem rápida de novas habilidades e linguagens de programação. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Estou no inicio da aprendizagem das linguagens sabendo um pouco de HTML, CSS, JavaScript, Git/Github. Evoluindo pra outras linguagens como: Typescript, React, Node</strong>
+  🦄 Linguagens: <strong> HTML, CSS, JavaScript. Evoluindo pra outras linguagens como: Typescript, React, Node</strong>
 </p>
 
 <p align="left">
@@ -17,12 +17,12 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui vai uma mensagem para entrar em contato com você: Desejando me contactar, clique nos links abaixo: ⤵️
 </p>
 
 <p align="left">
-  <a href="gisa8485@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link= gisa8485@gmail.com" /></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link= https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
 
   <a href="https://www.linkedin.com/in/gislene-marciano/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gislene-marciano/" /></a>
